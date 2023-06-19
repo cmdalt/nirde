@@ -9,7 +9,7 @@ pub fn home() -> Html {
     html! {
         <>
         <div class="container">
-        <h1>{"Yerli ve Milli Arama Motoru"}</h1>
+        <h5>{"Yerli ve Milli Arama Motoru"}</h5>
         </div>
         </>
     }
